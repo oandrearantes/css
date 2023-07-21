@@ -33,7 +33,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
-
+/* TENTEI COLOCAR UM BOTÃO PARA RETORNAR FACILMENTE AO TOPO MAS NÃO FUNCIONOU, PODERIA ME EXPLICAR COMO FAZER?
 #myBtn {
     display: none;
     position: fixed;
@@ -53,7 +53,7 @@ body {
 #myBtn:hover {
     background-color: #555;
 }
-
+*/
 .container {
     width: 1366px;
     margin: 0 auto;
